@@ -1,0 +1,6 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Nombre: Luis Apellido Paterno: Arroyo Apellido Materno: Nunez Estatura: 1.77 Celular: 4641196932 E-mail: jl.arroyoniunez@ugto.mx 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Nombre: Samuel Apellido Paterno: Ramos Apellido Materno: Andrade Estatura: 1.81 Celular: 3884747474 E-mail: sj.ramosandrade@ugto.mx 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Nombre: Alejandro Apellido Paterno: Hernadez Apellido Materno: Baca Estatura: 1.79 Celular: 171898289 E-mail: a.hernandezbaca@ugto.mx 
